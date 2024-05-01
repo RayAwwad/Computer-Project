@@ -37,7 +37,7 @@
             <a href="#"><i class="fa fa-pinterest"></i></a>
         </div>
         <div id="cc" class="copy">
-            <p>Copyright 2023 kloc. Designed by JP. khalbourji and B.Barrak. All rights reserved.</p>
+            <p>Copyright 2023 kloc. Designed by JP. khalbourji, B.Barrak. and R.Awwad All rights reserved.</p>
         </div>
     </div>
 </footer>

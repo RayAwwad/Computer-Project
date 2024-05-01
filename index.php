@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
 		
-		<title>techs Workshop</title>
+		<title>Techs Workshop</title>
 		
 
 		<link href="http://fonts.googleapis.com/css?family=Titillium+Web:300,400,700|" rel="stylesheet" type="text/css">
@@ -112,7 +112,7 @@ High-Quality Parts: Emphasizing the use of high-quality parts and materials in a
 							<div class="col-md-3 col-sm-6">
 								<div class="team">
 									<figure class="team-image"><img src="dummy/person-1.jpg" alt="person-1"></figure>
-									<h3 class="team-name">John Khalbourji</h3>
+									<h3 class="team-name">Ray Awwad</h3>
 									<small class="team-desc">Main technician</small>
 
 								</div>
